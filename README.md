@@ -2,9 +2,16 @@
 Chompers Munchers is a Panama based team comprised of three students which aim to learn the most of what is possible with our skillsets and aim to learn even more along the way, we are participating in the "WRO FE 2026: Self Driving Cars" challenge. In this documentation you'll be able to find everything about the team and robot, from details on each members to the creations and composition of Notechoques.
 
 ## Overview of the repository
-/CONTENTS LINKED HERE/
-We can't exactly label anyone with a specific role, as we kind of had every role at once, with everyone helping to build prototypes, code the robot and make sure the robot didn't blow up.
+[1. Meet the Munchers!](https://github.com/FlinNSteel/WRO2026-FE-CHOMPERSMUNCHERS#meet-the-munchers)
+[2. Robot Overview](https://github.com/FlinNSteel/WRO2026-FE-CHOMPERSMUNCHERS#robot-overview)
+[2.1 Mechanical Systems](https://github.com/FlinNSteel/WRO2026-FE-CHOMPERSMUNCHERS#mechanical-systems)
+[2.2 Command Based Parking]()
+[3. Robot Structure]()
+[3.1 Robot Dimensions](https://github.com/FlinNSteel/WRO2026-FE-CHOMPERSMUNCHERS#robot-dimensions)
+[3.2 Robot Materials](https://github.com/FlinNSteel/WRO2026-FE-CHOMPERSMUNCHERS#robot-materials)
+
 ## Meet the munchers!
+We can't exactly label anyone with a specific role, as we kind of had every role at once, with everyone helping to build prototypes, code the robot and make sure the robot didn't blow up.
 ### Leonardo Cubeddu
 I worked on the code for the robot and had my hand in the making of "NoTeChoques" (our robot's nickname).Aside from that, my last name is pronounced koo-BEH-doo so please pronounce it right 
 *Born*: 2010, Venezuelan
@@ -26,6 +33,12 @@ For our robot, we were aiming for a beginner friendly yet functional design, whi
 ### Mechanical Systems
 
 The robot's steering system was made with mechanical differential drive, with gears ensuring maximum customizability of the robot's speed for the wheels, the steering was done with an acherman directional in the front of the vehicle, with the back being hooked up to a rotatory motor which allows it to quickly adjust the speed of the robot, at least enough for it to do everything we need it to.
+
+### Command based parking
+
+We based our parking on the *pybricks* system by making a series of commands for the basic actions of **turning** and **moving**, with variables set to control the turn angle, intensity of the movement and distance covered.
+
+## Robot structure
 
 ### Robot Dimensions
 
