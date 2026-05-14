@@ -1,7 +1,7 @@
 # WRO2026-FE-ChompersMunchers
 Chompers Munchers is a Panama based team comprised of three students which aim to learn the most of what is possible with our skillsets and aim to learn even more along the way, we are participating in the "WRO FE 2026: Self Driving Cars" challenge. In this documentation you'll be able to find everything about the team and robot, from details on each members to the creations and composition of Notechoques.
 
-## Overview of the repository
+## Overview of the repository 📋
 [**1. Meet the Munchers!**](https://github.com/FlinNSteel/WRO2026-FE-CHOMPERSMUNCHERS#meet-the-munchers)
 
 [**2. Robot Overview**](https://github.com/FlinNSteel/WRO2026-FE-CHOMPERSMUNCHERS#robot-overview)
@@ -24,6 +24,9 @@ I worked on the code for the robot and had my hand in the making of "NoTeChoques
 ### Ana Lozano
 My main job relies on the documentation and research for making the robot come to life, anything from checking rules thousands of times to testing the robot's parameters to make the coding expirience smoother for everyone else on the team.
 *Born*: 2010, Panamenian
+### Dwight Sutherland
+Dwight is our mentor, he guides us along the way laying the basics for everything we do and making sure we can make the most out of what we have.
+*Born*: 2001, Panamenian
 ***
 Things we have to put:
 - Photos and media of the robot and the team, include videos of robot driving
