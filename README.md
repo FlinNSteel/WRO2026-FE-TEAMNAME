@@ -44,8 +44,13 @@ For our robot, we were aiming for a beginner friendly yet functional design, whi
 The robot's steering system was made with mechanical differential drive, with gears ensuring maximum customizability of the robot's speed for the wheels, the steering was done with an acherman directional in the front of the vehicle, with the back being hooked up to a rotatory motor which allows it to quickly adjust the speed of the robot, at least enough for it to do everything we need it to.
 
 ### Command based parking
+(image here)
 
-We based our parking on the *pybricks* system by making a series of commands for the basic actions of **turning** and **moving**, with variables set to control the turn angle, intensity of the movement and distance covered.
+- We based our parking on the *pybricks* system by making a series of commands for the basic actions of **turning** and **moving**, with variables set to control the turn angle, intensity of the movement and distance covered.
+
+- We is use the sensor to detect the distance in the two side (left,right) when it detects which one is the farthest it will activate one of the two codes
+  
+- If right is the farthest it will go and exit right if left is the farthest then it will exit left
 
 ## Robot structure
 
